@@ -23,3 +23,5 @@ I am a **Software Engineer** with over 6 years of experience building scalable b
 - **Email:** sabrina19_97@outlook.com
 
 ⚡ **Fun fact:** I love combining my foundations in Software Architecture with AI-agentic development to build hyper-efficient backend workflows!
+
+![Snake animation](https://github.com/saolivei/saolivei/blob/output/github-snake.svg)
